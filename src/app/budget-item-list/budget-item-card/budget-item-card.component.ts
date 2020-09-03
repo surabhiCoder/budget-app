@@ -1,5 +1,5 @@
 import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
-import { BudgetItem } from 'src/shared/models/budget-item-models';
+import { BudgetItem } from '../../../shared/models/budget-item-models';
 
 @Component({
   selector: 'app-budget-item-card',

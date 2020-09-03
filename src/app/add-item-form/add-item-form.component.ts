@@ -1,6 +1,6 @@
 import { Component, OnInit, Input, Output, EventEmitter, ViewChild } from '@angular/core';
 import { NgForm } from '@angular/forms';
-import { BudgetItem } from 'src/shared/models/budget-item-models';
+import { BudgetItem } from '../../shared/models/budget-item-models';
 
 @Component({
   selector: 'app-add-item-form',

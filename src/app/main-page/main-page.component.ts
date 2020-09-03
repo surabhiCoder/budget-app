@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { BudgetItem } from 'src/shared/models/budget-item-models';
+import { BudgetItem } from '../../shared/models/budget-item-models';
 import { UpdatedEvent } from '../budget-item-list/budget-item-list.component';
 
 @Component({

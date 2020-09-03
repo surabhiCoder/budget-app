@@ -1,5 +1,5 @@
 import { Component, OnInit, Inject } from '@angular/core';
-import { BudgetItem } from 'src/shared/models/budget-item-models';
+import { BudgetItem } from '../../shared/models/budget-item-models';
 import { MatDialogRef, MAT_DIALOG_DATA } from '@angular/material/dialog';
 
 @Component({
